@@ -1,0 +1,13 @@
+product_id,product_name,brand,category,vendor
+P001,iPhone 15,Apple,Mobiles,TechSupply
+P002,iPhone 14,Apple,Mobiles,TechSupply
+P003,Galaxy S24,Samsung,Mobiles,MobileHub
+P004,Galaxy Tab S9,Samsung,Tablets,MobileHub
+P005,MacBook Air,Apple,Laptops,GadgetWorld
+P006,Inspiron 15,Dell,Laptops,GadgetWorld
+P007,Banana Chips,NatureBite,Snacks,FreshFoods
+P008,Banana Powder,NatureBite,Health Food,FreshFoods
+P009,Banana Bread Mix,HomeBake,Bakery,FreshFoods
+P010,Banana Shake Mix,HomeBake,Beverages,DailyMart
+P011,Banana Protein Bar,FitFuel,Snacks,DailyMart
+P012,Almond Cookies,HomeBake,Bakery,DailyMart
